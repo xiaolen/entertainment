@@ -1,0 +1,14 @@
+beehive-admin/target/
+beehive-admin/.idea/
+
+cloud-model/target/
+cloud-model/.idea/
+
+cloud-util/target/
+cloud-util/.idea/
+
+.idea/
+*.class
+*.iml
+*.log
+target/
